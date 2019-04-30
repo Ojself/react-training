@@ -9,7 +9,9 @@ class Greetings extends Component {
       fr: 'Bonjour',
       es: 'Hola',
     }
+    console.log(this.props.children, "Hey")
     return (
+      
       <div className="box">
         {greetings[this.props.lang]} {this.props.children}
       </div>

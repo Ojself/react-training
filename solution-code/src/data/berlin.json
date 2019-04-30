@@ -1,30 +1,177 @@
 [
-  {"firstName": "Aaron", "lastName": "Newell", "country": "England", "img": "https://i.imgur.com/d9cl2CZ.jpg", "isStudent": false},
-  {"firstName": "Alec", "lastName": "Budd", "country": "USA", "img": "https://i.imgur.com/3W0Z41x.jpg", "isStudent": true},
-  {"firstName": "Alexander", "lastName": "Burdett", "country": "England", "img": "https://media.licdn.com/dms/image/C4D03AQFpaujECDaJ_A/profile-displayphoto-shrink_800_800/0?e=1556150400&v=beta&t=Yj9mmsG9VxO64wtJiOLm0pmCZdBsPNkfOm6qgdEIfvo", "isStudent": true},
-  {"firstName": "Amelia", "lastName": "Chorng Ua", "country": "Malaysia", "img": "https://i.imgur.com/HAUt5TS.jpg", "isStudent": true},
-  {"firstName": "AndrÃ©", "lastName": "Sebastian", "country": "Germany", "img": "https://i.imgur.com/WI6enfi.jpg", "isStudent": true},
-  {"firstName": "Ang Min", "lastName": "Sheng", "country": "Malaysia", "img": "https://i.imgur.com/QuS9ajK.jpg", "isStudent": true},
-  {"firstName": "Axel", "lastName": "Dahlin", "country": "Sweden", "img": "http://digitalheadbutt.files.wordpress.com/2007/08/viking-fc.jpg", "isStudent": false},
-  {"firstName": "Emmanuel", "lastName": "Iyere", "country": "Nigeria", "img": "https://i.imgur.com/IoZXpb1.jpg", "isStudent": true},
-  {"firstName": "Federico", "lastName": "Cassettai", "country": "Italy", "img": "https://i.imgur.com/xWnAQTG.jpg", "isStudent": true},
-  {"firstName": "Felix", "lastName": "Grosser", "country": "Germany", "img": "https://i.imgur.com/31fg9FV.jpg", "isStudent": true},
-  {"firstName": "Franziska", "lastName": "Bath", "country": "Germany", "img": "https://i.imgur.com/03myxCb.jpg", "isStudent": true},
-  {"firstName": "Jamie", "lastName": "Egan", "country": "Scotland", "img": "https://i.imgur.com/dHPAcef.jpg", "isStudent": true},
-  {"firstName": "Jennifer", "lastName": "Roberts", "country": "England", "img": "https://i.imgur.com/LFPrISE.jpg", "isStudent": true},
-  {"firstName": "Julia", "lastName": "Miller", "country": "Kazakhstan", "img": "https://i.imgur.com/T8QeHKx.jpg", "isStudent": true},
-  {"firstName": "Ksenia", "lastName": "Danniker", "country": "Russia", "img": "https://i.imgur.com/B6djgVA.jpg", "isStudent": true},
-  {"firstName": "Laura", "lastName": "Puyol Rigol", "country": "Catalonia", "img": "https://i.imgur.com/oZJDklg.jpg", "isStudent": true},
-  {"firstName": "Malte", "lastName": "Felmy", "country": "Germany", "img": "https://i.imgur.com/eTsNpZB.jpg", "isStudent": true},
-  {"firstName": "Marvin", "lastName": "Artioli", "country": "Italy", "img": "https://i.imgur.com/DrY6NIv.jpg", "isStudent": true},
-  {"firstName": "Matt", "lastName": "Harrison", "country": "USA", "img": "https://i.imgur.com/wqpIhh5.jpg", "isStudent": true},
-  {"firstName": "Maxence", "lastName": "Bouret", "country": "France", "img": "https://avatars1.githubusercontent.com/u/5306791", "isStudent": false},
-  {"firstName": "Moritz", "lastName": "Opitz", "country": "Germany", "img": "https://i.imgur.com/dbUhW9A.jpg", "isStudent": true},
-  {"firstName": "Na'aman", "lastName": "Hirschfeld", "country": "Israel", "img": "https://i.imgur.com/S3wDWpj.jpg", "isStudent": true},
-  {"firstName": "Pedro", "lastName": "Arantes", "country": "Brazil", "img": "https://i.imgur.com/lIj4dLl.jpg", "isStudent": true},
-  {"firstName": "Petter", "lastName": "Astedt", "country": "Sweden", "img": "https://i.imgur.com/Kd20jjL.jpg", "isStudent": true},
-  {"firstName": "Ruby", "lastName": "Lai", "country": "Taiwan", "img": "https://i.imgur.com/EGZRIyR.jpg", "isStudent": true},
-  {"firstName": "Sinan", "lastName": "Taylan", "country": "Turkey", "img": "https://i.imgur.com/LkuTvyk.jpg", "isStudent": true},
-  {"firstName": "Svenja", "lastName": "Weiler", "country": "Germany", "img": "https://i.imgur.com/VO73MM0.jpg", "isStudent": true},
-  {"firstName": "Thor", "lastName": "Flesjo", "country": "Norway", "img": "https://i.pinimg.com/originals/bc/78/84/bc7884910dd3272026b8af86ed265576.jpg", "isStudent": false}
+  {
+    "firstName": "Alina",
+    "lastName": "Ghetler",
+    "country": "Romania",
+    "img": "https://imgur.com/NPv6FnB.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "André",
+    "lastName": "Dahlinger",
+    "country": "Germany",
+    "img": "http://www.avertu.ch/images/andre.png",
+    "isStudent": true
+  },
+  {
+    "firstName": "Antoni",
+    "lastName": "Morawski",
+    "country": "Poland",
+    "img": "https://imgur.com/lW5lEKI.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Arian",
+    "lastName": "Parvin",
+    "country": "Germany",
+    "img": "https://imgur.com/2gr4SbE.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Aswin",
+    "lastName": "Pyakurel",
+    "country": "Nepal",
+    "img": "https://imgur.com/ydC4Lkr.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Bianca",
+    "lastName": "Velázquez",
+    "country": "Mexico",
+    "img": "https://imgur.com/H0E0pCl.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Eddie",
+    "lastName": "Chung",
+    "country": "Australia",
+    "img": "https://imgur.com/o1raNOC.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Fabio",
+    "lastName": "Morec",
+    "country": "Brazil",
+    "img": "https://imgur.com/p8OMtnA.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "White",
+    "country": "England",
+    "img": "https://imgur.com/jggFceq.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Helleke",
+    "lastName": "Heikkinen",
+    "country": "Finland",
+    "img": "https://imgur.com/tpsCTzM.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Hamza",
+    "lastName": "Al Ahmar",
+    "country": "Libanon",
+    "img": "https://imgur.com/8dARaeQ.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Horsfall",
+    "country": "Nigeria",
+    "img": "https://imgur.com/dUnERcg.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Tasos",
+    "lastName": "Kyrtsis",
+    "country": "Greece",
+    "img": "https://imgur.com/cEbcwnk.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Jesús",
+    "lastName": "Jiménez",
+    "country": "Mexico",
+    "img": "https://imgur.com/rWUHlAa.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Sylvie",
+    "lastName": "Berger",
+    "country": "Germany ",
+    "img": "https://imgur.com/eanOTXw.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Schorn",
+    "country": "Germany",
+    "img": "https://imgur.com/W9lixiC.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Remy",
+    "lastName": "Lenoir",
+    "country": "France",
+    "img": "https://imgur.com/ijtabH6.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Theresa",
+    "lastName": "Pancini",
+    "country": "Brazil",
+    "img": "https://imgur.com/6ABz7ce.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Álvarez",
+    "country": "Spain",
+    "img": "https://imgur.com/znPdHY0.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Key",
+    "lastName": "Morrison",
+    "country": "USA",
+    "img": "https://imgur.com/G1iwuVg.jpg",
+    "isStudent": true
+  },
+  {
+    "firstName": "Min",
+    "lastName": "Ang",
+    "country": "Malaysia",
+    "img": "https://imgur.com/LtpaxD0.jpg",
+    "isStudent": false
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Boreo",
+    "country": "Argentina",
+    "img": "https://masterceiparis3.files.wordpress.com/2017/03/tango.jpg",
+    "isStudent": false
+  },
+  {
+    "firstName": "Montasar",
+    "lastName": "Jarraya",
+    "country": "France",
+    "img": "https://imgur.com/q24W3Ty.jpg",
+    "isStudent": false
+  },
+  {
+    "firstName": "Tormod",
+    "lastName": "Flesjø",
+    "country": "Norway",
+    "img": "https://imgur.com/P7LvjnT.jpg",
+    "isStudent": false
+  },
+  {
+    "firstName": "Veronika",
+    "lastName": "Nedlin",
+    "country": "Russia",
+    "img": "https://imgur.com/FWDxR2J.jpg",
+    "isStudent": false
+  }
 ]

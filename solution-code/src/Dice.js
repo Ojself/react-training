@@ -10,7 +10,7 @@ class Dice extends Component {
   }
   // Return a random number between 1 and 6 (no need to bind)
   getRandomValue() {
-    return 1 + Math.floor(6*Math.random())
+    return 1 + Math.floor(Math.random()*6)
   }
   handleClick() {
     if (this.state.value) {
